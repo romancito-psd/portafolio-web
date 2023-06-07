@@ -1,11 +1,11 @@
 # portafolio-web
 Portafolio Web Profesional | FELROM.CL
 
-## ¿Para qué es esta propuesta?
+## ¿PARA QUÉ ES ESTA PROPUESTA?
 
 Mostrar y presentar mi trabajo, procesos y proyectos recientes como diseñador integral. Además de mi perfil profesional, valores y flujo de trabajo.
 
-## ¿Para quiénes es esta propuesta?
+## ¿PARA QUIÉNES ES ESTA PROPUESTA?
 
 Emprendedores que necesiten desarrollo de identidad gráfica.
 
@@ -19,7 +19,7 @@ Otros colegas dentro del ambito del diseño, compañeros para desarrollar proyec
 
 <img src='https://img.freepik.com/vector-gratis/concepto-doodle-reunion-trabajo-equipo-personas-negocios_107791-13881.jpg' width=480></img>
 
-## ¿Qué existe que es similar a la propuesta?
+## ¿QUÉ EXISTE QUE ES SIMILAR A LA PROPUESTA?
 
 <img src='ANTECEDENTES/KIRSCH.jpg' width=766></img>| 
 --- |
@@ -59,6 +59,7 @@ Web Simon Lee "SpiderZero", diseñador, escultor y artista conceptual |
 https://www.bigbluetree.com/artwork/ |
  `lo positivo:` Se presenta con referencias y comentarios de gente que ha trabajado con él.
 
-## ¿Qué existe que puede inspirar la propuesta?
+## ¿QUÉ EXISTE QUE PUEDE INSPIRAR LA PROPUESTA?
 
+<img src='MOODBOARD/MB.jpg' width=766></img>
 
