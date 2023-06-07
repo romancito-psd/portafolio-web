@@ -17,35 +17,48 @@ Agentes de Marketing y publicidad para diseño web y publicitario en busqueda de
 
 Otros colegas dentro del ambito del diseño, compañeros para desarrollar proyectos freelance en conjunto.
 
-<img src='https://cdn.dribbble.com/users/992274/screenshots/17523769/media/5eeacd1a2aa4ef2974c3e374677f0bd0.jpg?compress=1&resize=400x300' width=480></img>
+<img src='https://img.freepik.com/vector-gratis/concepto-doodle-reunion-trabajo-equipo-personas-negocios_107791-13881.jpg' width=480></img>
 
 ## ¿Qué existe que es similar a la propuesta?
 
-https://kirschberg.co.nz/work
-Animación y transiciones
+<img src='ANTECEDENTES/KIRSCH.jpg' width=766></img>| 
+--- |
+Portafolio Web Kia Ora, Diseñador |
+https://kirschberg.co.nz |
+ `lo positivo:` Animación y transiciones, scroll "eterno" en loop. | 
+ `lo negativo:` Saturado de elementos. |
 
-https://olhauzhykova.com/
-Uso de "fisicas" al scrollear.
+<img src='ANTECEDENTES/OLHA.jpg' width=766></img>| 
+--- |
+Portafolio web Olha Uzhykova, Diseñadora|
+https://olhauzhykova.com/ |
+ `lo positivo:` Uso de  animación con "fisicas" al scrollear. Animación de carga. | 
+ 
+ <img src='ANTECEDENTES/BIG.jpg' width=766></img>| 
+--- |
+WEB BJARKE INGELS GROUP, Arquitectos. |
+https://big.dk/ |
+ `lo positivo:` Simple, limpio, efecto en elemento de pantalla en el scroll. | 
+ `lo negativo:` Aburrido y monótono. |
+ 
+<img src='ANTECEDENTES/ZAHA.jpg' width=766></img>| 
+--- |
+Portafolio web Zaha Hadid Architects |
+https://www.zaha-hadid.com/ |
+ `lo positivo:` Tablas de navegación "removibles" y desplazables. |
 
-https://www.zaha-hadid.com/
-Las tabla de navegación "removibles"
+<img src='ANTECEDENTES/NORDLOG.jpg' width=766></img>| 
+--- |
+Empresa metalurgica Nordlog, pagina web.|
+https://www.nordlog.com/en/?url=en |
+ `lo positivo:` Efecto de multiplicar en el cursos, los juegos de elementos geométricos. Tipografía animada. |
 
-https://big.dk/
-Simple, limpio, efecto en el scroll.
-
-https://www.nordlog.com/en/?url=en 
-Efecto de multiplicar en el cursos, los juegos de elementos geométricos.
-
-https://www.bigbluetree.com/artwork/
-Quizás lo que no quiero hacer.
+<img src='ANTECEDENTES/SPIDERZERO.jpg' width=766></img>| 
+--- |
+Web Simon Lee "SpiderZero", diseñador, escultor y artista conceptual |
+https://www.bigbluetree.com/artwork/ |
+ `lo positivo:` Se presenta con referencias y comentarios de gente que ha trabajado con él.
 
 ## ¿Qué existe que puede inspirar la propuesta?
 
 
-
- <table>
-  <tr> 
-    <td> 1 </td>
-    <td> 1 </td>
-  </tr>
-</table>
