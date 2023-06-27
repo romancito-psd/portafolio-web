@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>Felipe Román</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="Portafolio, Felipe Roman, Diseño, Diseñador, Diseño integral, Diseño de branding, FELROM, Universidad Catolica" />
+        <meta name="author" content="Felipe Roman" />
+        <!--En la siguiente línea voy por el estilo CSS que ofrece Bootstrap-->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Bootstrap icons-->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" type="text/css" /> 
+        <!-- Simple line icons-->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css" rel="stylesheet" />  
+        <!-- Favicon-->
+        <link rel="icon" type="image/gif" href="img/bg/circulo1.gif" />  
+        <!-- Font-->           
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;1,100;1,500&display=swap" rel="stylesheet">
+        <!--No queria css-->
+        <style>
+            ;root{
+                  --bs-body-font-family:'Montserrat', sans-serif;;
+            } 
+            
+            section {
+                scroll-margin-top: 50px;
+            }
+            h1, h2 {
+            margin-top: 0;
+            margin-bottom: 0.5rem;
+            font-family: "Montserrat"; 
+            font-weight: 700;
+            line-height: 1.2;
+            }
+            nav {
+                backdrop-filter: blur(0.5rem);
+                background: rgba(22, 104, 97, 0.5)
+            }
+            #foto {
+                background: transparent url("img/bg/4P4L.gif") 0 0 no-repeat;
+                background-size: cover;
+            }
+
+            header .position-absolute .nombre {
+                font-size: 120px;
+              
+
+            }
+                        header {
+            position: left;
+            overflow: hidden;
+            z-index: 2;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding-left: 3rem;
+            }
+            header:before {
+            content: "";
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0.9);
+            }
+            header .position-absolute {
+            position: left;
+            max-width: 40rem;
+            padding-top: 5rem;
+            padding-bottom: 5rem;
+            padding-right: 18rem;
+            }
+
+            @media (min-width: 600px) {
+
+            header:before {
+                transform: skewX(-15deg);
+                transform-origin: top right;
+                height: 100%;
+                width: 65vw;
+                min-height: 0;
+                padding-bottom: 0;
+            }
+
+            }
+
+            footer {
+                background: rgb(27, 32, 32);
+            }
+            footer.footer .social-link {
+                display: block;
+                text-decoration: none;
+                height: 4rem;
+                width: 4rem;
+                line-height: 4.3rem;
+                font-size: 1.5rem;
+                background-color: #1d9f9f;
+                transition: background-color 0.15s ease-in-out;
+            }
+            
+            footer.footer .social-link:hover {
+            background-color: #1edab1;
+            text-decoration: none;
+            }
+            footer.footer {
+            padding-top: 5rem;
+            padding-bottom: 5rem;
+            }
+        </style>
+    </head>
+    <body>
+              <!--Barra de navegación fija al tope-->
+        <nav class="navbar fixed-top navbar-expand-lg">
+            <div class="container">
+                <a class="navbar-brand text-white" href="index.html">felipe román</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarMenu">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link text-white" href="#losIntereses">intereses</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" href="#losTrabajos">proyectos</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" href="#losContactos">contacto</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <!--Encabezado-->        
+        <header class="vh-100" id="foto">
+            <div class="position-absolute">
+                <h1 class="nombre text-white" >FELIPE</h1>
+                <h1 class="nombre mb-5 text-white">ROMÁN</h1>
+                <p class="text-white">
+                Diseñador integral de la Pontifica Universidad Catolica de Chile, me he especializado en<a href="#lasEspecialidades" class="link-light"> branding y diseño de producto.</a>.
+                </p>
+            </div>
+        </header>
+    
+        
+        <!--Los símbolos en este SVG escondido serán reutilizados más abajo-->
+        <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+            <symbol id="dado1" viewBox="0 0 16 16">
+                <path d="M3 0a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V3a3 3 0 0 0-3-3H3zm5 9.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/>
+            </symbol>
+                       <symbol id="dado2" viewBox="0 0 16 16">
+                  <path d="M0 3a3 3 0 0 1 3-3h10a3 3 0 0 1 3 3v10a3 3 0 0 1-3 3H3a3 3 0 0 1-3-3V3zm5.5 1a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0zm6.5 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/>
+
+            </symbol>
+                       <symbol id="dado3" viewBox="0 0 16 16">
+                 <path d="M3 0a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V3a3 3 0 0 0-3-3H3zm2.5 4a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm8 8a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zM8 9.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/>
+
+            </symbol>
+        </svg>
+
+        <!--Sección de #lasEspecialidades-->        
+        <section class="border-top border-bottom text-center" id="losIntereses">
+            <div class="container py-5">
+                <div class="content-section-heading">
+                    <h2 class="mb-5">ÁREAS DE INTERÉS</h2>
+                </div>
+                <div class="row mx-auto">
+                    <div class="col-lg-4 mb-5 mb-lg-0 mx-auto">
+                        <svg class="me-1 mb-1 h2 mx-auto" width="1em" height="1em" fill="#819e55"><use href="#dado1"></use></svg> 
+                        <h3>BRANDING</h3>
+                        <p>Diseño de identidades de marca con enfasis en la imagen del producto o servicio a trabajar.</p>
+                    </div>
+
+                    <div class="col-lg-4 mb-lg-0 mx-auto">
+                        <svg class="me-1 mb-1 h2 mx-auto" width="1em" height="1em" fill="#819e55"><use href="#dado2"></use></svg> 
+                        <h3>DISEÑO DE PRODUCTO</h3>
+                        <p>Ideación, conceptualización, creación e iteración de productos para mercados específicos.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--Sección de #losTrabajos-->        
+        <section class="border-top border-bottom" id="losTrabajos">   
+            <div class="container py-5">
+                <div class="content-section-heading text-center">
+                    <h2 class="text-secondary mb-5">PROYECTOS RECIENTES</h2>
+                </div>
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4" id="trabajos"></div>
+            </div>
+        </section>
+
+        <!-- Footer-->
+        <footer class="footer text-center" id="losContactos">
+            <div class="content-section-heading text-center">
+                <h2 class="text-white mb-5">CONTACTO</h2>
+            </div>
+                    <div class="social d-flex justify-content-center">
+                        <div class="mx-auto">
+                            <a class="social-link rounded-circle text-white" href="https://github.com/romancito-psd"><i class="icon-social-github"></i></a>
+                        </div>    
+                        <div class="mx-auto">
+                            <a class="social-link rounded-circle text-white" href="https://www.behance.net/feliperoman3"><i class="icon-social-behance"></i></a>
+                        </div > 
+                        <div class="mx-auto"> 
+                            <a class="social-link rounded-circle text-white" href="mailto:felipe.romn@uc.cl"><i class="bi bi-envelope"></i></a>
+                        </div>
+                        <div class="mx-auto"> 
+                            <a class="social-link rounded-circle text-white" href="https://wa.me/56976446014"><i class="bi bi-whatsapp"></i></a>
+                        </div>
+                        <div class="mx-auto"> 
+                            <a class="social-link rounded-circle text-white" href="https://www.linkedin.com/in/felipe-rom%C3%A1n-b80800184/"><i class="icon-social-linkedin"></i></a>
+                        </div>                                                                  
+                        </div>
+        </footer>
+
+        <!-- Lo que sigue es JavaScript a secas-->
+        <script>
+            async function portfolio() {
+                const consulta = await fetch("https://raw.githubusercontent.com/romancito-psd/portafolio-web/main/datos.json");
+                const data = await consulta.json();
+                var donde = document.querySelector("#trabajos");
+                data.forEach(function (t, i) {
+                    donde.innerHTML +=
+                        '<div class="col-lg-6 ' +
+                        t.soporte +
+                        '"><img src="img/' +
+                        t.fotos[0] +
+                        '" class="card-img-top"><div class="card-body"><h3 class="fs-5"><a href="single.html?nro=' +
+                        i +
+                        '" class="link-secondary">' +
+                        t.nombre +
+                        "</a></h3><p>" +
+                        t.abstract +
+                        "</p><small>#" +
+                        t.soporte +
+                        "</small></div></div>";
+                });
+            }
+            portfolio().catch((error) => console.error(error));
+        </script>
+               <!-- Bootstrap core JS-->
+               <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+               <!-- Core theme JS-->
+
+               <!-- Lo que sigue es la biblioteca de Bootstrap-->
+               <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
+    </body>
+</html>
