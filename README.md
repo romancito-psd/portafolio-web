@@ -10,6 +10,7 @@ Mostrar y presentar mi trabajo, procesos y proyectos recientes como diseñador i
 Emprendedores que necesiten desarrollo de identidad gráfica.
 
 <img src='https://static.vecteezy.com/system/resources/previews/001/436/759/original/flat-design-of-a-young-entrepreneur-free-vector.jpg' width=480></img>
+Bruno, 23 años egresado de ingenierái en marketing está buscando emprender con su negocio de consultorias. 
 
 Agentes de Marketing y publicidad para diseño web y publicitario en busqueda de diseñadores para su plantilla.
 
