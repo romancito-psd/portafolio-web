@@ -7,18 +7,28 @@ Mostrar y presentar mi trabajo, procesos y proyectos recientes como diseñador i
 
 ## ¿PARA QUIÉNES ES ESTA PROPUESTA?
 
-Emprendedores que necesiten desarrollo de identidad gráfica.
 
-<img src='https://static.vecteezy.com/system/resources/previews/001/436/759/original/flat-design-of-a-young-entrepreneur-free-vector.jpg' width=480></img>
-Bruno, 23 años egresado de ingenierái en marketing está buscando emprender con su negocio de consultorias. 
+<img src='https://media.istockphoto.com/id/1336483242/vector/an-african-teenager-is-smiling-a-non-binary-person-lgbtq.jpg?s=612x612&w=0&k=20&c=zmCMDY3T4LTGw2iMkEqlqu883o-7iCZ1J-ByTPGysfQ=' width=360></img>
+--- |
+BRUNO NUÑEZ|
+31 años|
+Egresado de ingenieria está buscando emprender|
+Necesita desarrollo de identidad gráfica para su pyme|
+Trabaja y estudia, tiene nociones básicas de uso computacional pero no lo suficiente como para usar programas de edición|
 
-Agentes de Marketing y publicidad para diseño web y publicitario en busqueda de diseñadores para su plantilla.
+<img src='https://media.istockphoto.com/id/1336082056/vector/a-curious-african-woman-is-holding-an-interesting-book.jpg?s=612x612&w=0&k=20&c=1fDTE268ezyINat4MISuHniFYFNAE-CUK7-JwfsS0o8=' width=360></img>
+--- |
+IGNACIA ALVAREZ|
+45 años| 
+Agente de Marketing y publicidad para diseño web y publicitario| 
+Busca de diseñadores para su plantilla en departamentos de dearrollo gráfico y creativo|
 
-<img src='https://img.freepik.com/vector-premium/ilustracion-estrategia-marketing-digital_86047-179.jpg?w=2000' width=480></img>
-
-Otros colegas dentro del ambito del diseño, compañeros para desarrollar proyectos freelance en conjunto.
-
-<img src='https://img.freepik.com/vector-gratis/concepto-doodle-reunion-trabajo-equipo-personas-negocios_107791-13881.jpg' width=480></img>
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE361n2Sq0sSEiOfLnpiESLUpojAkRKAPTUA7dDy7RAqvkIA5z6z7A-Iqr1Irncdkz5QE&usqp=CAU' width=360></img>
+--- |
+ANTONIA CARRASCO|
+24 años|
+Estudiante de postgrado|
+Busca colegas dentro del ambito del diseño, compañeros para desarrollar proyectos freelance en conjunto|
 
 ## ¿QUÉ EXISTE QUE ES SIMILAR A LA PROPUESTA?
 
