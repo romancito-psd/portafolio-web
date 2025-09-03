@@ -1,24 +1,17 @@
 [
     {
-        "nombre": "GOHM",
-        "fotos": ["gohm1.jpg", "gohm2.jpg", "gohm3.jpg"],
-        "soporte": "producto",
-        "abstract": "Gomitas de aceite escencial",
-        "texto": "Producto inédito de fabricación no industrial, que se encuentre inscrito en el ámbito de la alimentación. Este ámbito abarca tanto el contexto de preparación de alimentos, así como los propios alimentos y su consumo, incluyendo los distintos espacios donde puedan situarse, además de las herramientas, utensilios y sistemas de productos asociados. Junto con esto, se diseña una identidad de marca pertinente para el producto, de manera que logra insertarse en el mundo de sus destinatarios específicos de forma efectiva y agregando valor. Finalmente, se diseñará un packaging inédito que responda al producto y a la identidad construida, con foco principal en optimizar y nutrir el proceso de envío a domicilio y la experiencia de quien recibe el producto e interactúa con él. Dicho packaging deberá responder a las necesidades de su ciclo de vida, considerando su reciclaje, reutilización y/o su desecho ecológicamente responsable."
+        "nombre": "PICDROP",
+        "fotos": ["picdrop1.jpg", "picdrop2.jpg", "picdrop3.jpg"],
+        "soporte": "branding",
+        "abstract": "Identidad para servicio de fotografias aereas con drones",
+        "texto": "Propuesta de diseño de marca que busca capturar el interés y comprensión de las cualidades esenciales de un nuevo servicio, en este caso un servicio de fotografía aérea por drones que opera de manera remota y presencial."
     },
     {
-        "nombre": "PULMÓN VERDE REÑACA ALTO",
-        "fotos": ["pulmonverde1.jpg", "pulmonverde2.jpg", "pulmonverde3.jpg"],
+        "nombre": "VIPOP",
+        "fotos": ["vipop1.jpg", "vipop2.jpg", "vipop3.jpg"],
         "soporte": "branding",
-        "abstract": "Identidad para corporación Pulmon Verde de Reñaca Alto",
-        "texto": "El marco de trabajo del proyecto nace a partir de la misión de América Solidaria y la oficina de la niñez de la ciudad Viña del Mar de combatir con el adultocentrismo. El objetivo de este es conocer y poner en valor las ideas, opiniones, necesidades, problemas y propuestas de niña, niños y adolescentes (NNA) para así fomentar la participación protagónica de estos en distintos barrios vulnerables de la ciudad como Forestal, Achupallas y Reñaca Alto. Con la ayuda de la corporación autogestionada de Reñaca Alto, Pulmón verde, NNA del sector y una de las temáticas de interés recogida por América Solidaria sobre la participación de actividades en grupo fuera del horario y espacio escolar, se hizo un puente con la naturaleza para desarrollar el proyecto. Es así como nace el proyecto “Brote verde”, el cual consiste en una subdivisión de la corporación autogestionada de Reñaca Alto, Pulmón verde, dedicada a generar instancias de participación de NNA para el cuidado y mantenimiento de áreas verdes."
-    },
-    {
-        "nombre": "SVIZA CHOCOLATES",
-        "fotos": ["sviza1.jpg", "sviza2.jpg", "sviza3.jpg"],
-        "soporte": "branding",
-        "abstract": "Branding y packaging para chocolates",
-        "texto": "Propuesta de packaging para un nuevo producto competente en la categoría de Chocolates. La propuesta es una alternatvia que hace sentido al mayor número de personas o un grupo objetivo grande del mercado de Chocolates. Detrás de este producto final hay una nueva empresa que, a modo de ejercicio, necesita crear una marca corporativa y de packaging. Se considera una posible extension de linea para el producto final."
+        "abstract": "Identidad para productor de helados a base de verduras",
+        "texto": "Propuesta de diseño de marca y packaging que busca captar el interés y comprensión de las cualidades esenciales de un nuevo producto, en este caso una marca de helado de verduras orientado a un público infantil."
     },
     {
         "nombre": "KLATCH",
@@ -35,24 +28,33 @@
         "texto": "Línea de figuras interactivas con características relacionadas a ETS complementadas por tarjetas explicativas, implementadas en espacios amigables otorgados por las CESFAM. La educación sexual hoy en día recurre al miedo y a practicar la abstinencia como método para prevenir las ETS. Las campañas de prevención son poco efectivas porque no son llamativas debido a que tienden a ser gráficas y clínicas. Para hacer de las ETS un tema lúdico e interactivo de aprender desde temprana edad sin quitarle la seriedad pertinente al tema, logrando de esta forma la prevención de estas como también gatillar la conversación sobre el tema y normalizarlo."
     },
     {
+        "nombre": "SVIZA CHOCOLATES",
+        "fotos": ["sviza1.jpg", "sviza2.jpg", "sviza3.jpg"],
+        "soporte": "branding",
+        "abstract": "Branding y packaging para chocolates",
+        "texto": "Propuesta de packaging para un nuevo producto competente en la categoría de Chocolates. La propuesta es una alternatvia que hace sentido al mayor número de personas o un grupo objetivo grande del mercado de Chocolates. Detrás de este producto final hay una nueva empresa que, a modo de ejercicio, necesita crear una marca corporativa y de packaging. Se considera una posible extension de linea para el producto final."
+    },
+    
+    {
         "nombre": "ZIMA",
         "fotos": ["zima1.jpg", "zima2.jpg", "zima3.jpg"],
         "soporte": "branding",
         "abstract": "Ejercicio de Automarca",
         "texto": "Pensando en iniciar una carrera profesional nos proponemos reflexionar en nuestra identiciación. Todos llevamos un numero exclusivo de identidad, tambien nombre y apellidos sujetos al uso civil o costumbre heredadada y asumida. Entramos a la vida nombrados sin nuestra voluntad. Con ocasión de este taller de diseño de 'branding' vamos a marcarnos a nuestra conveniencia, El propósito es crear la identificación personal para ejercer el oficio de diseñar. Así como los productos, los servicios y las empresas construyen su identidad. Comprobamos que existen y han existido personas que se han construido la identidad propia y abundan en el mundo de la creación y las artes. Gabriela Mistral, Picasso, Banksy, Chaplin, Américo. Marilyn Monroe, Lady Gaga, Pablo Neruda, Beyoncé, Le Corbusier, etc."
     },
+     
      {
-        "nombre": "VIPOP",
-        "fotos": ["vipop1.jpg", "vipop2.jpg", "vipop3.jpg"],
-        "soporte": "branding",
-        "abstract": "Identidad para productor de helados a base de verduras",
-        "texto": "Propuesta de diseño de marca y packaging que busca captar el interés y comprensión de las cualidades esenciales de un nuevo producto, en este caso una marca de helado de verduras orientado a un público infantil."
-    },
+        "nombre": "GOHM",
+        "fotos": ["gohm1.jpg", "gohm2.jpg", "gohm3.jpg"],
+        "soporte": "producto",
+        "abstract": "Gomitas de aceite escencial",
+        "texto": "Producto inédito de fabricación no industrial, que se encuentre inscrito en el ámbito de la alimentación. Este ámbito abarca tanto el contexto de preparación de alimentos, así como los propios alimentos y su consumo, incluyendo los distintos espacios donde puedan situarse, además de las herramientas, utensilios y sistemas de productos asociados. Junto con esto, se diseña una identidad de marca pertinente para el producto, de manera que logra insertarse en el mundo de sus destinatarios específicos de forma efectiva y agregando valor. Finalmente, se diseñará un packaging inédito que responda al producto y a la identidad construida, con foco principal en optimizar y nutrir el proceso de envío a domicilio y la experiencia de quien recibe el producto e interactúa con él. Dicho packaging deberá responder a las necesidades de su ciclo de vida, considerando su reciclaje, reutilización y/o su desecho ecológicamente responsable."
+     },
      {
-        "nombre": "PICDRON",
-        "fotos": ["picdron1.gif", "picdron2.jpg", "picdron3.jpg"],
+        "nombre": "PULMÓN VERDE REÑACA ALTO",
+        "fotos": ["pulmonverde1.jpg", "pulmonverde2.jpg", "pulmonverde3.jpg"],
         "soporte": "branding",
-        "abstract": "Identidad para servicio de fotografias aereas con drones",
-        "texto": "Propuesta de diseño de marca que busca capturar el interés y comprensión de las cualidades esenciales de un nuevo servicio, en este caso un servicio de fotografía aérea por drones que opera de manera remota y presencial."
+        "abstract": "Identidad para corporación Pulmon Verde de Reñaca Alto",
+        "texto": "El marco de trabajo del proyecto nace a partir de la misión de América Solidaria y la oficina de la niñez de la ciudad Viña del Mar de combatir con el adultocentrismo. El objetivo de este es conocer y poner en valor las ideas, opiniones, necesidades, problemas y propuestas de niña, niños y adolescentes (NNA) para así fomentar la participación protagónica de estos en distintos barrios vulnerables de la ciudad como Forestal, Achupallas y Reñaca Alto. Con la ayuda de la corporación autogestionada de Reñaca Alto, Pulmón verde, NNA del sector y una de las temáticas de interés recogida por América Solidaria sobre la participación de actividades en grupo fuera del horario y espacio escolar, se hizo un puente con la naturaleza para desarrollar el proyecto. Es así como nace el proyecto “Brote verde”, el cual consiste en una subdivisión de la corporación autogestionada de Reñaca Alto, Pulmón verde, dedicada a generar instancias de participación de NNA para el cuidado y mantenimiento de áreas verdes."
     }
 ]

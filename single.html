@@ -1,181 +1,152 @@
 <!DOCTYPE html>
 <html lang="es">
-    <head>
-        <title>Felipe Román</title>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="Portafolio, Felipe Roman, Diseño, Diseñador, Diseño integral, Diseño de branding, FELROM, Universidad Catolica" />
-        <meta name="author" content="Felipe Roman" />
-        <!--En la siguiente línea voy por el estilo CSS que ofrece Bootstrap-->
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
-        <!-- Font Awesome icons (free version)-->
-        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
-        <!-- Bootstrap icons-->
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" type="text/css" /> 
-        <!-- Simple line icons-->
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css" rel="stylesheet" />  
-        <!-- Favicon-->
-        <link rel="icon" type="image/gif" href="img/bg/circulo1.gif" />  
-        <!-- Font-->           
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;1,100;1,500&display=swap" rel="stylesheet">
-        <!--No queria css-->
-        <style>
-            ;root{
-                  --bs-body-font-family:'Montserrat', sans-serif;;
-            } 
-            
-            section {
-                scroll-margin-top: 50px;
-            }
-            h1, h2 {
-            margin-top: 0;
-            margin-bottom: 0.5rem;
-            font-family: "Montserrat"; 
-            font-weight: 700;
-            line-height: 1.2;
-            }
-            nav {
-                backdrop-filter: blur(0.5rem);
-                background: rgba(22, 104, 97, 0.5)
-            }
-            #foto {
-                background: transparent url("img/b.gif") 0 0 no-repeat;
-                background-size: cover;
-            }
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Proyecto — Felipe Román</title>
 
-                        header {
-            position: left;
-            overflow: hidden;
-            z-index: 2;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding-left: 3rem;
-            }
-            header:before {
-            content: "";
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            right: 0;
-            left: 0;
-            height: 100%;
-            width: 100%;
-            background-color: rgba(0, 0, 0, 0.9);
-            }
-            header .position-absolute {
-            position: left;
-            max-width: 40rem;
-            padding-top: 5rem;
-            padding-bottom: 5rem;
-            padding-right: 18rem;
-            }
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-            @media (min-width: 600px) {
+    <style>
+      :root {
+        --bg:#0c0f12;
+        --bg-soft:#12161c;
+        --txt:#e8f1f2;
+        --muted:#a7b2b6;
+        --accent:#48d2a6;
+        --accent-weak:#19493f;
+      }
+      body {
+        font-family: 'Roboto Slab', serif;
+        background: var(--bg);
+        color: var(--txt);
+      }
+      /* NAVBAR */
+      .navbar{background:rgba(12,15,18,.35); backdrop-filter:blur(6px); transition:background .3s;}
+      .navbar.scrolled{background:rgba(12,15,18,.85);}
+      .navbar a{color:var(--txt);}
+      .navbar a:hover{color:var(--accent);}
+      /* HERO */
+      header.hero {
+        padding:6rem 1rem 3rem;
+        background:var(--bg-soft);
+        border-bottom:1px solid var(--accent-weak);
+        text-align:center;
+      }
+      header.hero h1{font-size:clamp(2rem,5vw,3.2rem); font-weight:700;}
+      header.hero p{color:var(--muted);}
+      /* GALERÍA */
+      .project-img {border-radius:12px;}
+      /* CONTENIDO */
+      .meta span{margin-right:1rem; color:var(--accent);}
+      .content p {color:var(--txt); line-height:1.6;}
+      /* FOOTER */
+      footer{border-top:1px solid var(--accent-weak); padding:3rem 0; background:#0a0d10;}
+      .social a{width:3rem; height:3rem; display:inline-flex; align-items:center; justify-content:center;
+        border:1px solid var(--accent-weak); border-radius:50%; color:var(--txt); margin:.25rem; transition:.2s;}
+      .social a:hover{border-color:var(--accent); color:var(--accent);}
+    </style>
+  </head>
+  <body>
+    <!-- NAV -->
+    <nav class="navbar navbar-expand-md fixed-top">
+      <div class="container">
+        <a class="navbar-brand fw-bold" href="index.html">felipe román</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="nav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item"><a class="nav-link" href="index.html#proyectos">Proyectos</a></li>
+            <li class="nav-item"><a class="nav-link" href="index.html#about">Sobre mí</a></li>
+            <li class="nav-item"><a class="nav-link" href="index.html#contacto">Contacto</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
 
-            header:before {
-                transform: skewX(-15deg);
-                transform-origin: top right;
-                height: 100%;
-                width: 65vw;
-                min-height: 0;
-                padding-bottom: 0;
-            }
+    <!-- HERO DEL PROYECTO -->
+    <header class="hero mt-5">
+      <div class="container">
+        <h1 id="nombreProyecto">Título del proyecto</h1>
+        <p class="lead" id="abstractProyecto">Descripción breve del proyecto.</p>
+      </div>
+    </header>
 
-            }
+    <!-- CONTENIDO -->
+    <main class="container py-5">
+      <!-- Galería de 3 imágenes -->
+      <div class="row g-4 mb-4" id="galeriaProyecto">
+        <!-- Aquí se insertan las imágenes -->
+      </div>
 
-            footer {
-                background: rgb(27, 32, 32);
-            }
-            footer.footer .social-link {
-                display: block;
-                text-decoration: none;
-                height: 4rem;
-                width: 4rem;
-                line-height: 4.3rem;
-                font-size: 1.5rem;
-                background-color: #1d9f9f;
-                transition: background-color 0.15s ease-in-out;
-            }
-            
-            footer.footer .social-link:hover {
-            background-color: #1edab1;
-            text-decoration: none;
-            }
-            footer.footer {
-            padding-top: 5rem;
-            padding-bottom: 5rem;
-            }
-        </style>
-    </head>
-    <body class="bg-light">
-        <!--Barra de navegación fija al tope, noten cambios en el href-->
-        <nav class="navbar fixed-top navbar-expand-lg">
-            <div class="container">
-                <a class="navbar-brand" href="index.html">Felipe Román</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarMenu">
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="index.html#losIntereses">especialidades</a></li>
-                        <li class="nav-item"><a class="nav-link" href="index.html#losTrabajos">proyectos</a></li>
-                        <li class="nav-item"><a class="nav-link" href="index.html#losContactos">contacto</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-        <!--Sección sin identidad-->
-        <section>
-            <div class="container my-5 pt-5">
-                <div class="row row-cols-1 row-cols-lg-2 g-4" id="trabajos"></div>
-            </div>
-        </section>
-        <!--Complemento lateral-->
-        <aside>
-            <div class="container pb-4">
-                <div class="row">
-                    <div class="col-6" id="back"></div>
-                    <div class="col-6 text-end" id="next"></div>
-                </div>
-            </div>
-        </aside>
-        <!-- El pie de página-->
-        <footer class="py-4 text-white">
-            <div class="container px-5"><p class="text-center small">Felipe Román &copy; 2023</p></div>
-        </footer>
-        <!-- Lo que sigue es JavaScript a secas-->
-        <script>
-            //Tomo el dato que trae ?nro=
-            var n = new URLSearchParams(window.location.search).get("nro");
-            //Lo que trae ?nro= será tratado siempre como número
-            n = Number(n);
-            //crearé una función asincrónica
-            async function portfolio() {
-                const consulta = await fetch("https://raw.githubusercontent.com/romancito-psd/portafolio-web/main/datos.json");
-                const data = await consulta.json();
-                const cuantos = data.length;
-                //Como n es siempre número: Ya no tengo posibilidad de null
-                document.querySelector("#trabajos").innerHTML = '<div class="col"><h2 class="fs-1">' + data[n].nombre + "</a></h2><p>" + data[n].texto + "</p><small>#" + data[n].soporte + "</small></div>";
-                //un forEach para cada foto del trabajo
-                data[n].fotos.forEach((x) => {
-                    document.querySelector("#trabajos").innerHTML += '<div class="col"><img src="img/' + x + '" class="w-100 rounded shadow-sm"></div>';
-                });
-                //Necesito una condición para pasar a trabajo anterior o siguiente si lo hubiera
-                if (n < 1) {
-                    document.querySelector("#next").innerHTML = '<a href="single.html?nro=' + (n + 1) + '" class="btn btn-sm btn-outline-secondary">siguiente &rarr;</a>';
-                } else if (n > 0 && n < cuantos - 1) {
-                    document.querySelector("#back").innerHTML = '<a href="single.html?nro=' + (n - 1) + '" class="btn btn-sm btn-outline-secondary">&larr; anterior</a>';
-                    document.querySelector("#next").innerHTML = '<a href="single.html?nro=' + (n + 1) + '" class="btn btn-sm btn-outline-secondary">siguiente &rarr;</a>';
-                } else {
-                    document.querySelector("#back").innerHTML = '<a href="single.html?nro=' + (n - 1) + '" class="btn btn-sm btn-outline-secondary">&larr; anterior</a>';
-                }
-            } //ahora cierro la creación de la función asincrónica
-            portfolio().catch((error) => console.error(error));
-        </script>
-        <!-- Lo que sigue es la biblioteca de Bootstrap-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
-    </body>
+      <div class="meta mb-4">
+        <span id="tagProyecto">#branding</span>
+        <span id="anioProyecto">2024</span>
+      </div>
+
+      <div class="content" id="detalleProyecto">
+        <p>Aquí iría el desarrollo completo del proyecto: retos, proceso, soluciones y resultados.</p>
+      </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="text-center">
+      <div class="container">
+        <h2 class="h4 mb-3">¿Hablamos?</h2>
+        <p class="text-muted">roman.felipe1@gmail.com</p>
+        <div class="social">
+          <a href="https://github.com/romancito-psd"><i class="bi bi-github"></i></a>
+          <a href="https://www.behance.net/feliperoman3"><i class="bi bi-behance"></i></a>
+          <a href="mailto:roman.felipe1@gmail.com"><i class="bi bi-envelope"></i></a>
+          <a href="https://wa.me/56976446014"><i class="bi bi-whatsapp"></i></a>
+          <a href="https://www.linkedin.com/in/felipe-rom%C3%A1n-b80800184/"><i class="bi bi-linkedin"></i></a>
+        </div>
+        <small class="text-muted">© <span id="year"></span> Felipe Román</small>
+      </div>
+    </footer>
+
+    <!-- JS -->
+    <script>
+      // Navbar scroll
+      window.addEventListener('scroll',()=> {
+        document.querySelector('.navbar').classList.toggle('scrolled', window.scrollY>20);
+      });
+
+      // Año dinámico
+      document.getElementById('year').textContent = new Date().getFullYear();
+
+      // Cargar proyecto desde JSON
+      const params = new URLSearchParams(window.location.search);
+      const nro = params.get('nro');
+
+      async function cargarProyecto(){
+        try{
+          const res = await fetch('https://raw.githubusercontent.com/romancito-psd/portafolio-web/main/datos.json');
+          const data = await res.json();
+          const p = data[nro];
+          if(p){
+            document.getElementById('nombreProyecto').textContent = p.nombre;
+            document.getElementById('abstractProyecto').textContent = p.abstract;
+            document.getElementById('tagProyecto').textContent = '#'+p.soporte;
+            document.getElementById('detalleProyecto').innerHTML = '<p>'+p.descripcion+'</p>';
+
+            // Insertar hasta 3 imágenes
+            const galeria = document.getElementById('galeriaProyecto');
+            galeria.innerHTML = p.fotos.slice(0,3).map(f => `
+              <div class="col-md-4">
+                <img src="img/${f}" alt="${p.nombre}" class="img-fluid project-img shadow-sm">
+              </div>`).join('');
+          }
+        }catch(e){console.error(e);}
+      }
+      cargarProyecto();
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
 </html>
